@@ -13,6 +13,9 @@ class Part1_Main {
 		val nombreCell : Cellule = Nombre(0, 0, "0")
 		println(cell.toPrint)
 		
+		var ligne : Array<Cellule?>
+		var tableau : Array<Array<Cellule?>?>
+		
 		//	TODO : print un tableau à 2 dimensions de Cellules aléatoires
 		//	on pourra utiliser la fonction random() qui s'utilise de la manière suivante :
 		//			<< (borne inférieure..borne supérieure).random() >>
