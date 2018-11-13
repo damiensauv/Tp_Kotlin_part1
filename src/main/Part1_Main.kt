@@ -12,13 +12,10 @@ class Part1_Main {
 		
 		val nombreCell : Cellule = Nombre(0, 0, "0")
 		println(cell.toPrint)
-	
-		val videCell : Cellule = Vide(0, 0)
-		println(cell.toPrint)
 		
 		//	TODO : print un tableau à 2 dimensions de Cellules aléatoires
 		//	on pourra utiliser la fonction random() qui s'utilise de la manière suivante :
 		//			<< (borne inférieure..borne supérieure).random() >>
-		//  pour générer aléatoirement les cellules (si le random = 1, c'est une Mine, par exemple)
+		//  pour générer aléatoirement les cellules (si le random = 1, c'est une Mine, sinon c'est un Nombre, par exemple)
 	}
 }

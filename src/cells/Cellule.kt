@@ -14,14 +14,6 @@ abstract class Cellule {
 }
 
 /**
- * class Vide : Cellule vide
- * valeur à afficher : _ (espace)
- */
-class Vide (
-	//TODO : renseigner les attributs d'un vide
-) : Cellule()
-
-/**
  * class Nombre : Cellule sans Mine
  * valeur à afficher : nombre de voisins
  */
