@@ -15,7 +15,7 @@ Tout d'abord, vous êtes meilleurs que ceux sur IntelliJ, mais vous êtes moins 
 Pour pouvoir coder en Kotlin, vous devrez installer le plug-in Kotlin, disponible sur l'Eclipse Marketplace.
 Pour cela :
 - Help > Eclipse Marketplace...
-- Dans la barre de recherche, entrez "Kotlin"
+- Dans la barre de recherche, entrer "Kotlin"
 - Choisir "Kotlin Plugin for Eclipse 0.8.8 > Installer
 - Redémarrer Eclipse
 - Window > Perspective > Open perspective > Other...
